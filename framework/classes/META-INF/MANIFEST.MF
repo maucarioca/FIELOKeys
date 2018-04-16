@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: M108588
+Build-Jdk: 1.8.0_91
+Main-Class: business.keyword.KeyApplication
+Created-By: Maven Integration for Eclipse
